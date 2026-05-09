@@ -1,4 +1,4 @@
-# workday-oraclecloud-integration
+# Workday-OracleCloud-Integration
 
 # Workday Studio Integration with Oracle Cloud Object Storage
 
