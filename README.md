@@ -73,8 +73,6 @@ File Retrieval / Processing
 * HTTP Send
 * Mediation Components
 * Properties / Variables
-* XML Processing
-* Exception Handling
 
 ### Custom Java Utilities
 
@@ -82,7 +80,6 @@ The Java layer is responsible for:
 
 * Building canonical signing strings
 * RSA SHA256 signing
-* Base64 encoding
 * Header generation
 * Date formatting
 * Request authentication
@@ -120,7 +117,6 @@ This integration can be used for:
 * Workday Prism data ingestion
 * OCI-hosted inbound files
 * Enterprise cloud integration
-* Hybrid cloud HR analytics pipelines
 * Automated file retrieval workflows
 
 ---
@@ -145,18 +141,6 @@ This required combining:
 * OCI API security standards
 * Studio orchestration logic
 * Secure integration design
-
----
-
-## Future Enhancements
-
-Potential future improvements include:
-
-* OCI file upload support
-* Pagination handling
-* Metadata retrieval
-* Generic reusable OCI connector framework
-* Enhanced monitoring and retry framework
 
 ---
 
